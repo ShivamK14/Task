@@ -2,7 +2,7 @@ Interview task
 
 
 Step 1:- Start Backend Django server:
-	-Clone the repository using git clone https://github.com/ShivamK14/Task
+	-Clone the repository using git clone https://github.com/ShivamK14/Task.git
 	-The backend folder contains Django Rest api
 	-Install the required python packages using  =                pip install -r requirements.txt
 	-After installing requirements run           =                python manage.py makemigrations
